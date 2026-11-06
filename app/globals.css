@@ -235,3 +235,6 @@ body:has(.legal-page) .nav{background:rgba(7,11,36,.95)}
   html{scroll-behavior:auto}
   .rv{opacity:1;transform:none}
 }
+
+/* footer: headings use the footer's own family, not the page display font */
+footer h1,footer h2,footer h3,footer h4{font-family:inherit}
