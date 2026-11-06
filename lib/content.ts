@@ -92,5 +92,5 @@ export const NAV = [
   { label: "About", href: "#about" },
   { label: "Ecosystem", href: "#ecosystem" },
   { label: "Our Divisions", href: "#divisions", mega: true },
-  { label: "Contact", href: "#contact" },
+  { label: "Contact", href: "#company" },
 ];
